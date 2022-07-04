@@ -1,4 +1,4 @@
-Algoritmo "terreno"
+Algoritmo "media idade"
 
 Var
 
@@ -24,7 +24,7 @@ Inicio
 
  mediaIdade <- (idade1 + idade2)  / 2
 
- Escreval ("A idade media de ",  nome1, " e ", nome2,  " é de ",  mediaIdade)
+ Escreval ("A idade media de ",  nome1, " e ", nome2,  " Ã© de ",  mediaIdade)
 
 
 Fimalgoritmo
